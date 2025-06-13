@@ -11,4 +11,4 @@ for _ in range(3):
   pwm.set_pwm(0,0,300)
   time.sleep(1)
   pwm.set_pwm(0,0,400)
-  time.sleept(1)
+  time.sleep(1)
